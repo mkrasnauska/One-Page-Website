@@ -1,0 +1,38 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 75%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+body {
+    font-size: 14px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: rgb(158, 201, 250);
+}
+
+.navbar {
+    height: 105px;
+    max-height: 340px;
+    display: block;
+} 
+
+p{
+    font-family: 'Lucida Sans';
+    font-size: 20px;
+    color: blue;
+    font-style: oblique;
+}
+    
+input[type=text] {
+    width: 60%;
+    padding: 10px 20px;
+    margin: 3px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 2px solid black;
+  }
